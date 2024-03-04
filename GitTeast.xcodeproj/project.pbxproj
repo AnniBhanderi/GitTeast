@@ -49,6 +49,7 @@
 		A30E62882B96913000D57C7B /* GitTeastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTeastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A30E628C2B96913000D57C7B /* GitTeastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTeastUITests.swift; sourceTree = "<group>"; };
 		A30E628E2B96913000D57C7B /* GitTeastUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTeastUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A30E629B2B9694A200D57C7B /* GotTesting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GotTesting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				A30E62742B96912F00D57C7B /* Assets.xcassets */,
 				A30E62762B96912F00D57C7B /* LaunchScreen.storyboard */,
 				A30E62792B96912F00D57C7B /* Info.plist */,
+				A30E629B2B9694A200D57C7B /* GotTesting.playground */,
 			);
 			path = GitTeast;
 			sourceTree = "<group>";
